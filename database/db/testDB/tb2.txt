@@ -1,0 +1,28 @@
+# column:column_name:data_type:not_null:auto_increment:primary_key
+column:address:string:true:false:false
+{
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+}
+
+column:phone_number:int:true:false:false
+{
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+}

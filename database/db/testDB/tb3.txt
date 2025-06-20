@@ -1,0 +1,14 @@
+# column:column_name:data_type:not_null:auto_increment:primary_key
+column:age:int:true:false:false
+{
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+}
